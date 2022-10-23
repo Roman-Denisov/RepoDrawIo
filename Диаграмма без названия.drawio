@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T15:02:01.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bp_EOEZClWuUZxjMEBq-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T18:58:47.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="V1KMsSLgn8EwuzVV9bly" version="20.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3205" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1777" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -72,6 +72,81 @@
         </mxCell>
         <mxCell id="ImNk3IMw5N3M5BcmRE5y-25" value="Вывод полной учётной информации для подклбчения пользователя к ИС" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="810" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-29" value="Противоречие постоянного увеличения учётных данных и пользователей, которые ими пользуются с понижением производительности труда и отсутствием аналитического аппарата автоматизации информационных процессов контроля доступа к вычислительным ресурсам" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#9AB2E2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-440" y="382.5" width="425" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=92.57142857142857;endSize=6.234285714285714;startWidth=49.714285714285715;startSize=19.33142857142857;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="299.5" as="sourcePoint" />
+            <mxPoint x="-700" y="299.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-35" value="Проблемы практики" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-860" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43.666666666666664;endSize=5.963333333333334;startWidth=49.714285714285715;startSize=19.33142857142857;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="229.70999999999998" as="sourcePoint" />
+            <mxPoint x="-260" y="229.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-48" value="Большое количество вычислительных ресурсов, данные для подключения к которым нужно безопасно хранить" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="200" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47;endSize=6.516666666666667;startWidth=43.666666666666664;startSize=6.516666666666667;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="299.71" as="sourcePoint" />
+            <mxPoint x="-260" y="299.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-53" value="Необходимость постоянного предоставления или лишения доступа пользователей к большому количеству вычислительных ресурсов" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="270" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-54" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43.666666666666664;endSize=5.963333333333334;startWidth=49.714285714285715;startSize=19.33142857142857;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="369.71000000000004" as="sourcePoint" />
+            <mxPoint x="-260" y="369.94999999999993" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-55" value="Снижение продуктивности сотрудников, пользующихся вычислительными ресурсами в связи с необходимость хранить, использовать и передавать учётные данные" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="340" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=92.57142857142857;endSize=6.234285714285714;startWidth=49.714285714285715;startSize=19.33142857142857;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-740" y="524.5" as="sourcePoint" />
+            <mxPoint x="-700" y="524.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-64" value="Проблемы теории" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-860" y="495" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43.666666666666664;endSize=5.963333333333334;startWidth=49.714285714285715;startSize=19.33142857142857;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="454.71000000000004" as="sourcePoint" />
+            <mxPoint x="-260" y="454.95000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-66" value="Отсутствуют аналитические модели оценки работы алгоритмов шифрования защищаемой информации" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="425" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=47;endSize=6.516666666666667;startWidth=43.666666666666664;startSize=6.516666666666667;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="524.71" as="sourcePoint" />
+            <mxPoint x="-260" y="524.95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-68" value="Неудобный программный интерфейс и недостаток функций, что ограничивает скорость обработки и работы пользователей с программным средством" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="495" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=43.666666666666664;endSize=5.963333333333334;startWidth=49.714285714285715;startSize=19.33142857142857;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="594.71" as="sourcePoint" />
+            <mxPoint x="-260" y="594.9499999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ImNk3IMw5N3M5BcmRE5y-70" value="Потребность покупки программного продукта (лицензии) либо подписки на программный продукт, а также обучение квалифицированного персонала" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-700" y="565" width="410" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
